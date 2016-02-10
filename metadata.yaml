@@ -1,0 +1,29 @@
+_repo: Norman-Macleod_47323
+contributor:
+  illustrator:
+    agent_name: Brown, Joseph
+    gutenberg_agent_id: '42796'
+    url: http://www.gutenberg.org/2009/agents/42796
+creator:
+  author:
+    agent_name: Wellwood, John
+    birthdate: 1853
+    deathdate: 1919
+    gutenberg_agent_id: '44255'
+    url: http://www.gutenberg.org/2009/agents/44255
+    wikipedia: http://en.wikipedia.org/wiki/John_Wellwood
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2014-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 14
+subjects:
+- !lcsh 'Macleod, Norman, 1812-1872'
+title: Norman Macleod
+url: http://www.gutenberg.org/ebooks/47323
